@@ -5,10 +5,12 @@
     border: 1px solid #ccc;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #2e2e2e;
 }
 
 h2{
-    color: #333;
+    color: #ffffff;
+    margin-left: 15rem;
 }
 
 ul{
@@ -28,6 +30,7 @@ span{
     border: 1px solid white;
     border-radius: 4px;
     margin-right: 10px;
+    color: white;
 }
 
 button{
@@ -46,6 +49,8 @@ button{
     background-color: #3498db;
     color: aliceblue;
     border:none;
+    margin-left: 16rem;
+
 }
 
 input[type="text"]{
@@ -53,6 +58,7 @@ input[type="text"]{
     margin-right: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    margin-left: 13rem;
 }
 
 .add-task-button{
